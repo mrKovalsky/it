@@ -12,6 +12,8 @@ namespace it
         {
             Console.WriteLine("piotrek");
             int a = 0;
+            
+            int cyce = 9;
         }
     }
 }
